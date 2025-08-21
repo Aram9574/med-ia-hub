@@ -61,7 +61,7 @@ export const personalInfo = {
     en: "Physician | AI Applied to Healthcare | Interoperability and Clinical Data"
   },
   location: "Madrid, España",
-  email: "aram@example.com",
+  email: "zakzukaram@gmail.com",
   linkedin: "https://www.linkedin.com/in/aram-profile",
   github: "https://github.com/Aram9574",
   bio: {
