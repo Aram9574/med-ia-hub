@@ -29,7 +29,7 @@ export function HeroSection() {
 
           {/* Main Title */}
           <h1 className="hero-title mb-6 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
-            Alejandro Zakzuk
+            ALEJANDRO ZAKZUK
           </h1>
 
           {/* Subtitle */}
