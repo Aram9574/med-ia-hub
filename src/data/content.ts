@@ -55,7 +55,7 @@ export interface MediaContent {
 }
 
 export const personalInfo = {
-  name: "Aram",
+  name: "Alejandro Zakzuk",
   title: {
     es: "Médico | IA aplicada a Salud | Interoperabilidad y Datos Clínicos",
     en: "Physician | AI Applied to Healthcare | Interoperability and Clinical Data"
